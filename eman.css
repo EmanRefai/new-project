@@ -1,0 +1,25 @@
+#div1 h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    height: 70px;
+}
+img{
+    width: 400px;
+}
+body{
+    height: 900px;
+}
+span{
+    width:200px;
+    height: 200px;
+}
+#squar{
+    width: 400px;
+    height: 350px;
+}
+#div5{
+    margin-left: 100px;
+}
+footer div{
+    height: 100px;
+}
